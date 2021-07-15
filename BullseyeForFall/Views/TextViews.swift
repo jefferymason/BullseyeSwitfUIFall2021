@@ -16,7 +16,7 @@ struct InstructionText: View {
           .kerning(2.0)
           .multilineTextAlignment(.center)
           .lineSpacing(4.0)
-          .font(.footnote)
+            .font(.headline)
     }
 }
 
